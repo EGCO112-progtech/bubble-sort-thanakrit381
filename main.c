@@ -15,7 +15,7 @@ for(i=0;i<N;i++){
     }
   }
   n=j;
-  if(n==0)printf("no prime\n");
+  if(n==0)printf("No prime\n");
   else{
   display(prime,n);
    bubbleSort(prime,n); 
